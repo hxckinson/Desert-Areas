@@ -7,7 +7,7 @@ It has been developed with Blender and Python. Anyone who watns to try or to con
 
 
 ## Source
-You may find the source in file **desert_areas.blend**
+You may find the source in file [here](https://drive.google.com/file/d/0BzfsWX4zvp5pb01LQkVqQ0hQNWs/view?usp=sharing&resourcekey=0-w6_Mx4HkfIssIb8jX9W0Tg).
 You need to have blender installed on your machine. Please visit https://www.blender.org/
 
 ## Windows
